@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+}
+.btn-shadow{
+    background-color: #fe696a;
+border-color: #fe696a;
+box-shadow: 0 .5rem 1.125rem -0.5rem rgba(254,105,106,.9);
+margin-right: -109px;
+
+}
+.menu{
+    margin-top: -26px;
+    margin-left: -160px;
+    font-family: sans-serif;
+}
+
+.multipurpose {
+    margin-top: -450px;
+}
+.store{
+    font-size: 19px;
+}
+.shop{
+    line-height: 2;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+padding: -6px;
+margin-left: -23px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.kich{
+    margin-top: 0;
+margin-bottom: .75rem;
+font-weight: 500;
+line-height: 1.2;
+color: #373f50;
+}
+.development{
+    color: #7d879c !important;
+    font-size: 0.8125rem !important;
+    margin-bottom: 0 !important;
+    margin-top: 0;
+    font-family: sans-serif;
+}
+.much{ 
+     font-size: 20px;
+    font-family: sans sref;
+    color: #625f5c;
+    }
+    .border {
+        border-bottom: 1px solid #ccc3c3;
+            border-bottom-color: rgb(204, 195, 195);
+            border-bottom-style: solid;
+            border-bottom-width: 1px;
+        padding-left: 1350px;
+    }
+.premium{
+    font-weight: 500;
+line-height: 1.2;
+color: #373f50;
+}
+.all {
+    padding: 0;
+    margin-left: 0;
+    color: #949697;
+}
+.toolbar{
+    color: #949697;
+}
+.ecommerce{
+    background-color:#373f50;;
+   
+}
+.bg-secondary {
+    
+    background-color: #f6f9fc !important;
+}
+.sass{
+    width: 90px;
+text-align: center;
+margin-left: 52px;
+margin-top: 84px;
+}
+.cartizilia{
+      text-align: center;
+        margin-right: 24px;
+        margin-top: 24px;
+        font-size: 21px;
+        margin-bottom: 47px;
+      }
+.borderr{
+    padding-left: 1187px;
+}
+.reserved{
+      color: #999997;
+    font-size: 15px;
+}
